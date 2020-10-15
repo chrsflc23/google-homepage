@@ -1,0 +1,1 @@
+I will try to rewrite the Google Homepage in HTML and CSS and then copy it to my GitHUb repository using Git.
